@@ -15,10 +15,9 @@
 ![Mobile First](https://img.shields.io/badge/Mobile--First-Design-orange?style=for-the-badge)
 ![Dark Mode](https://img.shields.io/badge/Dark--Mode-Enabled-111?style=for-the-badge&logo=halfbrickstudios&logoColor=white)
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2660ad71-c2dd-449d-9aff-0d2049651925/deploy-status)](https://html-css-projects-w3s-jiro.netlify.app/)
 ![Status](https://img.shields.io/badge/status-complete-brightgreen)
 ![Learning Path](https://img.shields.io/badge/learning%20path-month%203-blue)
-
-ADD MORE FLAIR TAGS THAT YOU THINK IS APPLICABLE TO THIS PROJECT. REMOVE FLAIR TAGS THAT YOU THINK IS NOT APPLICABLE FOR THIS PROJECT.
 
 ## ℹ️ A Collection of HTML-CSS W3Schools Practice Projects
 
@@ -110,7 +109,7 @@ Each of these projects was a direct hands-on implementation of topics I studied 
 
 ## 🌐 Live Demo
 
-Or you can check out the 👉 [live website here](LINK)
+Or you can check out the 👉 [live website here](https://html-css-projects-w3s-jiro.netlify.app/)
 
 ---
 
@@ -121,10 +120,3 @@ Created by **Elmar Chavez**
 🗓️ Month/Year: **June 2025**
 
 📚 Journey: **3<sup>rd</sup>** month of learning _frontend web development_.
-
-<!--
-
-TAGS:
-html css vscode git github netlify figma 3rd-month project showcase
-
--->
