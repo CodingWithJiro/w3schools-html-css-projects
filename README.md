@@ -18,6 +18,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/2660ad71-c2dd-449d-9aff-0d2049651925/deploy-status)](https://html-css-projects-w3s-jiro.netlify.app/)
 ![Status](https://img.shields.io/badge/status-complete-brightgreen)
 ![Learning Path](https://img.shields.io/badge/learning%20path-month%203-blue)
+![Views](https://visitor-badge.laobi.icu/badge?page_id=CodingWithJiro.w3schools-html-css-projects&left_text=repo%20views)
 
 ## ℹ️ A Collection of HTML-CSS W3Schools Practice Projects
 
